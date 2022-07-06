@@ -1,0 +1,12 @@
+export var gameOverText = document.querySelector(".game-over");
+export var h1 = document.querySelector("h1");
+export var startButton = document.querySelector(".start-button");
+export var clicker = document.querySelector(".clicker");
+export var totalAmount = document.querySelector(".total-amount");
+export var gameContent = document.querySelector(".game-content");
+export var countdownText = document.querySelector(".countdown");
+export var playAgain = document.querySelector(".play-again");
+export var highscore = document.querySelector(".highscore");
+export var button = document.querySelector(".button");
+export var score = document.querySelector(".score");
+export var gamecountdown = document.querySelector(".gamecountdown");
